@@ -1,0 +1,7 @@
+.completed {
+    background: rgb(177, 186, 250);
+}
+
+.notCompleted {
+    background: rgb(253, 240, 240);
+} 
